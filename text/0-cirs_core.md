@@ -108,7 +108,7 @@ when implementing `libcore` functionality.
 # Rationale and alternatives
 
 - Just use the Rust provided `libcore`. It already provides a solid base for
-  cirs. This does allow us to focus on other parts of the project. We can
+  `cirs`. This does allow us to focus on other parts of the project. We can
   perhaps provide `cirs_core` later.
 
 # Unresolved questions
