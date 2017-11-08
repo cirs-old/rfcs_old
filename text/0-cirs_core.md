@@ -5,8 +5,7 @@
 
 # Summary
 
-Provide an implementation of Rust `libcore` that suits to Cirs Project
-needs.
+Provide an implementation of Rust `libcore` that suits to Cirs Project needs.
 
 # Motivation
 
@@ -32,7 +31,11 @@ by the various libraries in the Cirs Project are implemented.
 
 Every Cirs Project library that depends on `cirs_core` has it as a feature
 `cirs_core`, which is part of the `default` feature. Builds and tests are run
-once with `cirs_core` implementation and once with 'libcore'.
+once with `cirs_core` implementation and once with `libcore`.
+
+Although most of the content will be copied or based on `libcore`
+implementation, the documentation will need modification wherever it refers to
+content that is not supported as part of the Cirs Project.
 
 ## Language Items
 
