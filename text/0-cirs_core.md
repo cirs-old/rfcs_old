@@ -1,7 +1,7 @@
 - Feature Name: cirs_core
 - Start Date: 2017-11-7
 - RFC PR: [#1](https://github.com/cirs/rfcs/pull/1)
-- Cirs Issue: (leave this empty)
+- Cirs Issue: [#4](https://github.com/cirs/cirs/issues/4)
 
 # Summary
 
